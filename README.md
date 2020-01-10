@@ -27,6 +27,8 @@ Ajoute le flux RSS à la base de donnée.
 
 ```@botcast add https://robotsettondeuses.lepodcast.fr/rss```
 
+![Message Botcast Ajout Flux](https://i.imgur.com/kcDbNf0.png)
+
 
 #### notif [default/numéro] (true/false/@role)
 Si un argument, change le paremètre de notification sur tous les podcasts (default) ou sur un podcast (numéro) à everyone (true), désactivé (false) ou sur un rôle. Si il n'y a pas d'arguments, affiche les paramètres actuels.
